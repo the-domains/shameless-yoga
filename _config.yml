@@ -10,10 +10,11 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.1501866
 color:
   saturation: 0.7383395
   brandStrength: 0.489278
-  lightness: 0.3078358
+  lightness: 0.5037314
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
@@ -21,6 +22,5 @@ color:
     - '#3A6EA5'
     - '#004E98'
   rhythmicContrast: 0.5652985
-typography_spectrum: 0.1501866
 layout_spectrum: 0
 name: Shameless Yoga
