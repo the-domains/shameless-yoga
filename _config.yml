@@ -1,14 +1,26 @@
-layout_spectrum: 0.5741605
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.1501866
 color:
   saturation: 0.6944517
-  lightness: 0.07733402
   brandStrength: 0.489278
-  rhythmicContrast: 0.3402375
+  lightness: 0.5900186
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  rhythmicContrast: 0.479944
+layout_spectrum: 0.5741605
 name: Shameless Yoga
