@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 1
+  saturation: 0.7266791
   brandStrength: 0.489278
-  lightness: 0.4416977
+  lightness: 0.1921642
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  rhythmicContrast: 1
+  rhythmicContrast: 0.8768657
 typography_spectrum: 0.1501866
-layout_spectrum: 0.5904851
+layout_spectrum: 0.2434701
 name: Shameless Yoga
